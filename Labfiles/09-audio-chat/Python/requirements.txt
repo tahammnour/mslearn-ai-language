@@ -1,1 +1,4 @@
 python-dotenv
+azure-identity
+azure-ai-projects==1.0.0b9
+azure-ai-inference==1.0.0b9
